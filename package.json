@@ -1,0 +1,14 @@
+{
+  "name": "projeto-base",
+  "version": "1.0.0",
+  "description": "projeto-base",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bernardo Bechi da Silva",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
